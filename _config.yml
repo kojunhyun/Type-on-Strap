@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "/kojunhyun"
+baseurl: ""
 url: "https://kojunhyun.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
